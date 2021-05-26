@@ -1,2 +1,2 @@
-def display_board(board, index)
+def display_board(board)
 end
